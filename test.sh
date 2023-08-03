@@ -1,0 +1,3 @@
+python tool/test.py --model linknet --submit_name linknet_1024base --checkpoint_name epoch=54_train_loss=0.105648_train_DiceScore=0.894380
+python tool/test.py --model unet --submit_name unet_1024  --checkpoint_name epoch=77_train_loss=0.113495_train_DiceScore=0.886524
+python tool/test.py --model unetplusplus --submit_name upp_ptt --checkpoint_name epoch=73_train_loss=0.098848_train_DiceScore=0.901183

@@ -1,0 +1,15 @@
+pillow
+pandas
+numpy
+wandb
+tqdm
+opencv-python
+
+scikit-learn
+torch
+pytorch_lightning
+
+albumentations
+segmentation_models_pytorch
+lion_pytorch
+timm
